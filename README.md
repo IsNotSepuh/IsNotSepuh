@@ -2,8 +2,8 @@
 - 👀 I’m interested in trains, technology, and web development.  
 - 🌱 I’m currently learning advanced JavaScript and Tailwind CSS for web animations.  
 - 💞️ I’m looking to collaborate on railfans-related projects or creative web applications.  
-- 📫 How to reach me: TikTok @raisrfsr or WhatsApp +6282180426880.  
-- 😄 Pronouns: She/Her.  
+- 📫 How to reach me: TikTok @is.inhere or WhatsApp +6282180426880.  
+- 😄 Pronouns: He/Him.  
 - ⚡ Fun fact: I’m a railfan who loves exploring railway tracks and capturing train moments! 🚂  
 
 
