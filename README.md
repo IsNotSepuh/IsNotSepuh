@@ -1,7 +1,7 @@
 # @IsNotSepuh 🤖✨
 
 [![TikTok](https://img.shields.io/badge/TikTok-%40is.inhere-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@is.inhere)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282180426880)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285158163940)
 [![Trakteer](https://img.shields.io/badge/Buy_Me_A_Coffee-FF5E5B?style=for-the-badge&logo=trakteer&logoColor=white)](https://trakteer.id/MatrixMan)
 
 ---
@@ -43,7 +43,7 @@ const me = {
 ## 📬 Kontak ~ Yuk Ngobrol!
 
 - **TikTok**: [@is.inhere](https://tiktok.com/@is.inhere) - buat konten receh soal coding
-- **WA**: [6282180426880](https://wa.me/6282180426880) - buat project serius (atau ngga)
+- **WA**: [6285158163940](https://wa.me/6285158163940) - buat project serius (atau ngga)
 - **Trakteer**: [MatrixMan](https://trakteer.id/MatrixMan) - kalo mau ngasih kopi virtual 😘
 
 ---
