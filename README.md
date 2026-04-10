@@ -21,7 +21,7 @@ const hunterProfile = {
 
 -----
 
-## Alat Tempoor
+## Alat Tempoor \
 
 **Web Vulnerability** 
 **Security Tools** 
@@ -29,7 +29,7 @@ const hunterProfile = {
 **Kopi**
 -----
 
-## 📂 Portfolio
+## 📂 Portfolio \
 
   - **Web Portfolio**: [porto-rais.netlify.app](https://porto-rais.netlify.app)
   - **Instagram**: [@is.inhere](https://www.google.com/search?q=https://instagram.com/is.inhere)
@@ -37,7 +37,7 @@ const hunterProfile = {
 
 -----
 
-## 📬 Kontak
+## 📬 Kontak \
 
   - **TikTok**: [@is.inhere](https://tiktok.com/@is.inhere) - konten edukasi cybersec (kadang receh)
   - **WA**: [6285158163940](https://wa.me/6285158163940) - buat project serius atau sekadar diskusi payload
@@ -45,5 +45,5 @@ const hunterProfile = {
 
 -----
 
-> *"NoLifeIsSafe. Satu celah kecil sudah cukup untuk meruntuhkan satu sistem besar."*  
+> *"NoLifeIsSafe.."*  
 > *"Fix bug today, sleep better tonight. Unless the developer ignores your report."*
