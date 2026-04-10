@@ -29,7 +29,7 @@ const hunterProfile = {
 **Kopi**
 -----
 
-## 📂 Portfolio \~ Hasil Ngulik
+## 📂 Portfolio
 
   - **Web Portfolio**: [porto-rais.netlify.app](https://porto-rais.netlify.app)
   - **Instagram**: [@is.inhere](https://www.google.com/search?q=https://instagram.com/is.inhere)
@@ -37,7 +37,7 @@ const hunterProfile = {
 
 -----
 
-## 📬 Kontak \~ Yuk Ngobrol\!
+## 📬 Kontak
 
   - **TikTok**: [@is.inhere](https://tiktok.com/@is.inhere) - konten edukasi cybersec (kadang receh)
   - **WA**: [6285158163940](https://wa.me/6285158163940) - buat project serius atau sekadar diskusi payload
