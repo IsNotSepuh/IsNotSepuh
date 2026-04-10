@@ -1,6 +1,3 @@
-Okelah, ini versi yang udah dirapiin sesuai struktur teks yang kamu kasih, tetep pake badge biar visualnya dapet, dan typo-typo dikit udah dibenerin. Langsung sikat buat pasang di profil:
-
------
 
 # @IsNotSepuh 🛡️🕵️‍♂️
 
