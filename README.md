@@ -1,10 +1,4 @@
-Siap, kita update versinya biar makin sangar tapi tetep santuy. Fokusnya ke spesialisasi kerentanan yang sering kamu temuin dan pastinya jargon andalanmu masuk.
-
-Ini dia drafnya:
-
------
-
-# @IsNotSepuh 🛡️🕵️‍♂️
+# @IsNotSepuh
 
 [](https://tiktok.com/@is.inhere)
 [](https://wa.me/6285158163940)
@@ -12,7 +6,7 @@ Ini dia drafnya:
 
 -----
 
-## 🧑‍💻 About Me \~ Penambang Bug Legal
+## 🧑‍💻 About Me \~
 
 ```javascript
 const hunterProfile = {
