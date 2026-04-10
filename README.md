@@ -21,7 +21,7 @@ const hunterProfile = {
 
 -----
 
-## ⚔️ Arsenal \~ Alat Tempur
+## Alat Tempoor
 
 **Web Vulnerability** 
 **Security Tools** 
