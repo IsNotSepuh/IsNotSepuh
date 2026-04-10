@@ -1,52 +1,55 @@
-# @IsNotSepuh 🤖✨
+Siap, kita update versinya biar makin sangar tapi tetep santuy. Fokusnya ke spesialisasi kerentanan yang sering kamu temuin dan pastinya jargon andalanmu masuk.
 
-[![TikTok](https://img.shields.io/badge/TikTok-%40is.inhere-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@is.inhere)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285158163940)
-[![Trakteer](https://img.shields.io/badge/Buy_Me_A_Coffee-FF5E5B?style=for-the-badge&logo=trakteer&logoColor=white)](https://trakteer.id/MatrixMan)
+Ini dia drafnya:
 
----
+-----
 
-## 🧑‍💻 About Me ~ Bocil Kode Gabut
+# @IsNotSepuh 🛡️🕵️‍♂️
+
+[](https://tiktok.com/@is.inhere)
+[](https://wa.me/6285158163940)
+[](https://trakteer.id/MatrixMan)
+
+-----
+
+## 🧑‍💻 About Me \~ Penambang Bug Legal
 
 ```javascript
-const me = {
-  pronouns: "He/Him",
-  code: ["JavaScript", "Python", "HTML/CSS"],
-  passions: ["Web Dev", "Open Source", "Animasi Kekinian"],
-  currentFocus: "Ngulik Framework JavaScript sampe bingung",
-  motto: "YOLO Debugging - Fix Now, Regret Later",
-  funFact: "Bisa ngetik 100WPM tapi masih pake console.log()"
+const hunterProfile = {
+  role: "Bug Hunter / Cyber Security Enggineer",
+  specialties: ["Broken Link Hijacking", "Cross-Site Scripting", "SQL Injection"],
+  portfolio: "porto-rais.netlify.app",
+  status: "Lagi nyari celah di aset pemerintah... eh, maksudnya VDP.",
+  motto: "NoLifeIsSafe",
+  funFact: "Bahagia itu sederhana: Cukup liat Alert(1) atau dapet LoA dari NASA."
 }
 ```
 
----
+-----
 
-## 🛠️ Tech Stack ~ Alat Penting
-  
-**Frontend Gwejh**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![AOS](https://img.shields.io/badge/Scroll_Animasi-7B68EE?style=flat)
+## ⚔️ Arsenal \~ Alat Tempur
 
-**Backend Santuy**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Web Vulnerability** 
+**Security Tools** 
+**Scripting & OS** 
+**Kopi**
+-----
 
-**Lain-lain**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bug Hunter](https://img.shields.io/badge/Bug_Hunter-%F0%9F%90%9B-orange?style=flat)
+## 📂 Portfolio \~ Hasil Ngulik
 
-</div>
+  - **Web Portfolio**: [porto-rais.netlify.app](https://porto-rais.netlify.app)
+  - **Instagram**: [@is.inhere](https://www.google.com/search?q=https://instagram.com/is.inhere)
+  - **Hall of Fame**: Udah pernah mampir di beberapa VDP ternama (cek porto buat detailnya).
 
----
+-----
 
-## 📬 Kontak ~ Yuk Ngobrol!
+## 📬 Kontak \~ Yuk Ngobrol\!
 
-- **TikTok**: [@is.inhere](https://tiktok.com/@is.inhere) - buat konten receh soal coding
-- **WA**: [6285158163940](https://wa.me/6285158163940) - buat project serius (atau ngga)
-- **Trakteer**: [MatrixMan](https://trakteer.id/MatrixMan) - kalo mau ngasih kopi virtual 😘
+  - **TikTok**: [@is.inhere](https://tiktok.com/@is.inhere) - konten edukasi cybersec (kadang receh)
+  - **WA**: [6285158163940](https://wa.me/6285158163940) - buat project serius atau sekadar diskusi payload
+  - **Trakteer**: [MatrixMan](https://trakteer.id/MatrixMan) - modal beli kopi biar mata melek pas dorking
 
----
+-----
 
-> _"Coding itu kayak pasangan - kadang bikin seneng, kadang bikin bete, tapi selalu bikin penasaran."_  
-> _"Fix bug today, munculin bug baru besok. It's the circle of life."_
+> *"NoLifeIsSafe. Satu celah kecil sudah cukup untuk meruntuhkan satu sistem besar."*  
+> *"Fix bug today, sleep better tonight. Unless the developer ignores your report."*
