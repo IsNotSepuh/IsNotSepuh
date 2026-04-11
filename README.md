@@ -1,5 +1,5 @@
 
-# @IsNotSepuh 🛡️🕵️‍♂️
+# @IsNotSepuh 
 
 [](https://tiktok.com/@is.inhere)
 [](https://wa.me/6285158163940)
@@ -11,7 +11,9 @@
 
 ```javascript
 const hunterProfile = {
-  role: "Bug Hunter / Cyber Security Engineer",
+  name: "Rais Dirja Rahmadi",
+  Birthday: "18-04-2009",
+  role: "Cyber Security Engineer",
   specialties: ["Broken Link Hijacking", "Cross-Site Scripting", "SQL Injection"],
   portfolio: "porto-rais.netlify.app",
   status: "Lagi nyari celah di aset pemerintah... eh, maksudnya VDP.",
@@ -23,13 +25,9 @@ const hunterProfile = {
 -----
 
 ## Alat Tempoor \~
-
 **Web Vulnerability**
-
 **Security Tools**
-
 **Scripting & OS**
-
 **Kopi**
 
 -----
@@ -44,9 +42,9 @@ const hunterProfile = {
 
 ## 📬 Kontak \~
 
-  * **TikTok**: [@is.inhere](https://tiktok.com/@is.inhere) - konten edukasi cybersec (kadang receh)
-  * **WA**: [6285158163940](https://wa.me/6285158163940) - buat project serius atau sekadar diskusi payload
-  * **Trakteer**: [MatrixMan](https://trakteer.id/MatrixMan) - modal beli kopi biar mata melek pas dorking
+  * **TikTok**: [@is.inhere](https://tiktok.com/@is.inhere) 
+  * **WA**: [6285158163940](https://wa.me/6285158163940) 
+  * **Donate**: [Thanks Orang Baiks](https://bayar-rais.yobaseapp.me) 
 
 -----
 
